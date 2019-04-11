@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+    <meta charset="utf-8">
+    <title></title>
+    <script>
+     alert("Input 4 numbers to find the average");
+
+        var answerNumbs0 = prompt("Enter a number!");
+          parsedAns0 = Number(answerNumbs0);
+         var answerNumbs1 = prompt("Enter second number!");
+          parsedAns1 = Number(answerNumbs1);
+        var answerNumbs2 = prompt("Enter third number!");
+          parsedAns2 = Number(answerNumb2);
+        var answerNumbs3 = prompt("Enter fourth number!");
+          parsedAns3 = Number(answerNumbs3);
+
+          answerNumbs = [parsedAns0, parsedAns1, parsedAns2, parsedAns3]
+
+        console.log((answerNumbs[0] + answerNumbs[2] + answerNumbs[3])/answerNumbs.length)
+
+
+    </script>
+</head>
+
+<body>
+
+</body>
+
+</html>
